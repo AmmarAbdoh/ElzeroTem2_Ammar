@@ -1,4 +1,4 @@
-# Responsive-Kasper-Templete-HTML-CSS
-Elzero HTML+CSS Templet
+# Responsive-Kasper-Template-HTML-CSS
+Elzero HTML+CSS Template
 
-Link : https://ammarabdoh.github.io/Responsive-Kasper-Templete-HTML-CSS/
+Link : https://ammarabdoh.github.io/Responsive-Kasper-Template-HTML-CSS/
